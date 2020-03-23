@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Parents Tell Stories To Babies
 
-You can use the [editor on GitHub](https://github.com/beni520/ParentsTellStoriesToBabies/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When parents tell stories to their babies, they can not only interact with them, improve the relationship between them, but also help them learn more knowledge. We can use this app to record the details of each story we tell our baby. Including the number of words involved in the story, the time needed to tell the story, the type of story and other information. You can also record whether the baby is interested in this type of story, and how the baby felt at that time, so as to help us better tell more wonderful and interesting stories to the baby and enjoy the happy time.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/ParentsTellStoriesToBabies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
